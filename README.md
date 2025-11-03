@@ -1,1 +1,1 @@
-# Insurance-Premium-Payout-Power-BI-Project
+# Insurance Premium & Payout Power BI Project
